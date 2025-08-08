@@ -76,7 +76,7 @@ java DrawingPrototypeApp
 
 > **GUI screenshot here**
 
-
+<img width="1366" height="728" alt="shape drawing UI" src="https://github.com/user-attachments/assets/e4acdd27-1831-4f2c-bb63-c4be99900aff" />
 
 ---
 
@@ -84,6 +84,7 @@ java DrawingPrototypeApp
 
 > **UML diagram here** (PlantUML or exported PNG)
 
+<p align ="center"><img width="434" height="527" alt="image" src="https://github.com/user-attachments/assets/88e2cdd5-0033-4e10-b3fb-32fd4e43fea4" /></p>
 
 ---
 
