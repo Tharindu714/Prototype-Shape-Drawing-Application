@@ -60,14 +60,16 @@ This project maps the pattern to concrete classes so you can see the pattern in 
 2. Compile the Java source(s):
 
 ```bash
-javac DrawingPrototypeApp.java
-# If you split files, compile all .java files: javac *.java
+# Clone the repo
+git clone https://github.com/Tharindu714/Prototype-Shape-Drawing-Application.git
+# Open in your favorite IDE
+gradle run   # or mvn compile exec:java
 ```
 
 3. Run:
 
 ```bash
-java DrawingPrototypeApp
+java Prototype-Shape-Drawing-Application
 ```
 
 ---
@@ -130,4 +132,4 @@ If you use or modify this project, please keep attribution. Feel free to open is
 
 # 🙌 Final notes
 
-This project is both a learning tool and a small production-worthy demo: it shows **how prototypes let you spawn complex objects quickly while preserving clean templates**. Paste your UML and GUI screenshot in the sections above, and you’ll have a beautiful, presentation-ready README for your repository. 🎉
+This project is both a learning tool and a small production-worthy demo: it shows **how prototypes let you spawn complex objects quickly while preserving clean templates** 🎉
